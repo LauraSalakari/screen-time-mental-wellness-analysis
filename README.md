@@ -7,8 +7,21 @@ By the end of our analysis, we will have answered three questions:
 2. How does screen time affect productivity?
 3. How does screen time impact general mental wellness?
 
-Through the answers to these questions, we can draw conclusions on the general wellbeing in relation to screen time 
-presented in the dataset
+Through the answers to these questions, we can draw conclusions on the general wellbeing in relation to screen time presented in the dataset.
 
 
 ### Conclusion
+
+Overall, the data recorded in the *Screen Time vs Mental Wellness Survey* suggests slight negative trends in relation to screen time.
+
+#### 1. Reduced screen time is weakly associated with improved sleep quality and amount
+
+The data suggests a slight trend indicating that reduced screen time is associated with better sleep quality, although the correlation is weak. Similarly, there is a mild negative relationship between screen time and total sleep duration, with longer screen use corresponding to slightly less sleep. The most notable relationship observed in the dataset is the strong positive correlation between the amount of sleep and the quality of sleep recorded.
+
+#### 2. Higher leisure screen time correlates slightly lower productivity scores
+
+Productivity scores are generally stable, but there is a slight negative trend with screen time. Individuals who spend more time on leisure screens tend to have slightly lower productivity, while work-related screen time shows little impact. Overall, total screen time has a small negative effect on productivity.
+
+#### 3. Lower screen time tends to correlate to higher levels of mental wellness 
+
+Mental wellness scores across the dataset appear to be consistently low, indicating a general concern for psychological well-being. A noticeable trend suggests that individuals with less screen time tend to report higher levels of mental wellness.
