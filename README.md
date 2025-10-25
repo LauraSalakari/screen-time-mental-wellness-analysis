@@ -25,3 +25,8 @@ Productivity scores are generally stable, but there is a slight negative trend w
 #### 3. Lower screen time tends to correlate to higher levels of mental wellness 
 
 Mental wellness scores across the dataset appear to be consistently low, indicating a general concern for psychological well-being. A noticeable trend suggests that individuals with less screen time tend to report higher levels of mental wellness.
+
+
+### Link to presentation 
+
+[Slides on Canva](https://www.canva.com/design/DAG2ctbu9h8/2WN3B3Svlgk3j9LNeWWpOg/view?utm_content=DAG2ctbu9h8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h773f369aef)
